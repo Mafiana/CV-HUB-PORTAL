@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\CV HUB PORTAL.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\CV HUB PORTAL.pdb
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.Core.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\EntityFramework.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\WebGrease.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\EntityFramework.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.Core.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\obj\Debug\CV HUB PORTAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\obj\Debug\CV HUB PORTAL.dll
+C:\Users\user\Desktop\CV HUB PORTAL\CV HUB PORTAL\obj\Debug\CV HUB PORTAL.pdb
